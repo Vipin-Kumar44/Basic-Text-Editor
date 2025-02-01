@@ -1,0 +1,6 @@
+self.bold_btn = tk.Button(self.toolbar, text="B", command=self.toggle_bold)
+        # self.bold_btn.pack(side=tk.LEFT)
+        # self.italic_btn = tk.Button(self.toolbar, text="I", command=self.toggle_italic)
+        # self.italic_btn.pack(side=tk.LEFT)
+        # self.underline_btn = tk.Button(self.toolbar, text="U", command=self.toggle_underline)
+        # self.underline_btn.pack(side=tk.LEFT)
